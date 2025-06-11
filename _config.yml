@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+title: Rabipedia
+description: Rabipedia is a website that provides information about games.
+markdown: kramdown 
